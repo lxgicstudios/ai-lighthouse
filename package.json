@@ -32,7 +32,11 @@
     "typescript",
     "nodejs",
     "google",
-    "audit"
+    "audit",
+    "ai-search-optimization",
+    "geo",
+    "core-web-vitals-2026",
+    "inp"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
