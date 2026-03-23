@@ -43,7 +43,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-lighthouse#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-lighthouse"
+    "url": "git+https://github.com/LXGIC-Studios/ai-lighthouse.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-lighthouse/issues"
