@@ -1,5 +1,5 @@
 {
-  "name": "ai-lighthouse",
+  "name": "@lxgicstudios/ai-lighthouse",
   "version": "1.0.0",
   "description": "AI-powered Lighthouse analyzer - performance fixes and SEO recommendations with GPT",
   "main": "dist/index.js",
