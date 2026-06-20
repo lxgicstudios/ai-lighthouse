@@ -8,7 +8,7 @@
     "ai-lighthouse": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,13 +32,23 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-lighthouse",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-lighthouse",
   "keywords": [
+    "accessibility",
+    "ai-overviews",
+    "citation-optimization",
+    "generative-engine-optimization",
+    "geo",
     "lighthouse",
+    "may-2026-core-update",
+    "mobile-first",
+    "page-speed",
     "performance-audit",
-    "web-vitals",
+    "search-console",
     "seo",
-    "accessibility"
+    "seo-audit",
+    "technical-seo",
+    "web-vitals"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -49,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-lighthouse"
   },
   "scripts": {
