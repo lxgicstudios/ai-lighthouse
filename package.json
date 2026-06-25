@@ -48,7 +48,9 @@
     "seo",
     "seo-audit",
     "technical-seo",
-    "web-vitals"
+    "web-vitals",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
